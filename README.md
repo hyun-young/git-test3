@@ -1,0 +1,7 @@
+![01-root-mainPage](https://github.com/user-attachments/assets/550db5a5-2e81-4a24-9b9c-6bb9966cfd8a)
+![04-hiking-finish](https://github.com/user-attachments/assets/4208cfc8-2626-4a78-9f7a-71bfe00ec693)
+![11-sub-timer-schedule](https://github.com/user-attachments/assets/3fd4b4e2-be6b-44e6-8e88-e42a45dac890)
+![02-sub-mainPage](https://github.com/user-attachments/assets/55dca4dd-f27f-4e02-a10c-2c0eba3a73d7)
+![07-memo](https://github.com/user-attachments/assets/c01ba7a5-c0cb-4513-afbc-f6d2174afbce)
+![08-summary](https://github.com/user-attachments/assets/84b800c1-995f-4efc-8284-46a59da585b3)
+![05-monthly-report](https://github.com/user-attachments/assets/4c2c20fe-64d0-418b-b0dd-7562c816ddd3)
